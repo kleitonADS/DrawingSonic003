@@ -845,3 +845,11 @@ div, section, ::after, ::before{
   border-radius: 60% 43% 1% 20%;
   transform: rotate(306deg) skew(-2deg) skewY(-37deg);
 }
+
+.video{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 600px;
+  padding-bottom: 50px;
+}
